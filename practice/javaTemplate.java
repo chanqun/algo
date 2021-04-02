@@ -1,13 +1,17 @@
 package solution;
 
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.LinkedList;
+import java.util.List;
 import java.util.PriorityQueue;
 import java.util.Queue;
 import java.util.Stack;
+import java.util.stream.Stream;
 
 public class template {
 	public static Queue<Integer> queue = new LinkedList<>();
@@ -47,7 +51,13 @@ public class template {
 		}
 	}
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws Exception {
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		String[] firstLine = br.readLine().split(" ");
+		for (String string : firstLine) {
+			System.out.println(string);
+		}
+		
 		Node n1 = new Node(4, 3);
 		System.out.println(n1.toString());
 
