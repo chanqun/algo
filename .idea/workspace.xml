@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="adf18770-05aa-4f40-b8e9-6686e05bdaca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baek/NumberCard.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baek/Olympiad Pizza.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baek/maze.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baek/p13669.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baek/p3273.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baek/p6987.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Script" />
+        <option value="Kotlin File" />
+        <option value="Class" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1v6eWeSW55cIq7KTNcrCLMKFDZa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/baek" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/baek" />
+      <recent name="$PROJECT_DIR$/src/main/kotlin/practivekakao" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin/practice" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.P6987Kt">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P18325Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P18325Kt" />
+      <module name="algo.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P4779Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P4779Kt" />
+      <module name="algo.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P5568Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P5568Kt" />
+      <module name="algo.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P6987Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.P6987Kt" />
+      <module name="algo.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PermutationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PermutationKt" />
+      <module name="algo.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.P6987Kt" />
+        <item itemvalue="Kotlin.P18325Kt" />
+        <item itemvalue="Kotlin.PermutationKt" />
+        <item itemvalue="Kotlin.P5568Kt" />
+        <item itemvalue="Kotlin.P4779Kt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="adf18770-05aa-4f40-b8e9-6686e05bdaca" name="Default Changelist" comment="" />
+      <created>1625886999007</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625886999007</updated>
+      <workItem from="1625887000265" duration="4006000" />
+      <workItem from="1625975564502" duration="1227000" />
+      <workItem from="1626142481555" duration="582000" />
+      <workItem from="1626238637818" duration="6184000" />
+      <workItem from="1626956110917" duration="3749000" />
+      <workItem from="1627126064696" duration="838000" />
+      <workItem from="1628609732849" duration="3272000" />
+      <workItem from="1628849388449" duration="4112000" />
+      <workItem from="1628878680404" duration="4788000" />
+      <workItem from="1628956336199" duration="302000" />
+      <workItem from="1629002491759" duration="54000" />
+      <workItem from="1629122021962" duration="121000" />
+      <workItem from="1629211363358" duration="95000" />
+      <workItem from="1629381321362" duration="771000" />
+      <workItem from="1629454418321" duration="5864000" />
+      <workItem from="1629520133993" duration="555000" />
+      <workItem from="1629550284443" duration="2495000" />
+      <workItem from="1629600583857" duration="568000" />
+      <workItem from="1629605757155" duration="10085000" />
+      <workItem from="1629634520998" duration="106000" />
+      <workItem from="1629638449508" duration="3848000" />
+      <workItem from="1629721882462" duration="3623000" />
+      <workItem from="1629736246432" duration="89000" />
+      <workItem from="1629821971826" duration="887000" />
+      <workItem from="1629981410844" duration="5240000" />
+      <workItem from="1630045444913" duration="5239000" />
+      <workItem from="1630051322969" duration="15000" />
+      <workItem from="1630052014928" duration="115000" />
+      <workItem from="1630066508139" duration="3146000" />
+      <workItem from="1630074339047" duration="5503000" />
+      <workItem from="1630081719805" duration="2073000" />
+      <workItem from="1630134262926" duration="2062000" />
+      <workItem from="1630416660842" duration="507000" />
+      <workItem from="1630593434130" duration="64000" />
+      <workItem from="1630929257540" duration="1702000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
