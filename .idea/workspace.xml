@@ -71,7 +71,7 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin/practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.P6987Kt">
+  <component name="RunManager">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -120,15 +120,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Kotlin.P6987Kt" />
-        <item itemvalue="Kotlin.P18325Kt" />
-        <item itemvalue="Kotlin.PermutationKt" />
-        <item itemvalue="Kotlin.P5568Kt" />
-        <item itemvalue="Kotlin.P4779Kt" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
